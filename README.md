@@ -1,2 +1,2 @@
 #Scammer Website
-![]image/blue.png
+![](image/blue.png)
